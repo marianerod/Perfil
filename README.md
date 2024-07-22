@@ -1,20 +1,20 @@
-## **👋 Hello World, eu sou a Mariane!**
+## **👋 Hello World!**
 
-Engenheira de Produção e Bacharel em Ciência e Tecnologia pela Universidade Federal dos Vales do Jequitinhonha e Mucuri (UFVJM), e estou concluindo um MBA em Data Science & Analytics pela Universidade de São Paulo (USP/Esalq). Tenho um profundo interesse por dados, soluções de problemas e sou uma ávida entusiasta de Ciência de Dados.
+I'm **Mariane**, a Production Engineer and hold a Bachelor's degree in Science and Technology from the Federal University of the Jequitinhonha and Mucuri Valleys (UFVJM). I'm completing an MBA in Data Science & Analytics from the University of São Paulo (USP/Esalq). I have a deep interest in data and problem-solving, and I am an avid enthusiast of Data Science.
 
-Com uma sólida formação em **Estatística**, **Python**, **SQL**, **R** e **Visualização de Dados**, estou sempre ansiosa para assumir novos desafios e explorar novas tecnologias. Se você estiver interessado em discutir esses tópicos ou tiver alguma dúvida relacionada a eles, sinta-se à vontade para entrar em contato comigo. Estou sempre feliz em me conectar e aprender com outras pessoas na comunidade.
+With a solid background in **Statistics**, **Python**, **SQL**, **R**, and **Data Visualization**, I'm always eager to take on new challenges and explore new technologies. If you are interested in discussing these topics or have any questions about them, please feel free to reach out to me. I'm always happy to connect and learn from others in the community.
 
-## **📫 Vamos nos conectar!**
+## **📫 Let's connect!**
 
-Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/marianedpr/) ou sinta-se à vontade para me enviar um [e-mail](mdpaulasl@gmail.com).
+You can find me on [LinkedIn](https://www.linkedin.com/in/marianedpr/) or feel free to [e-mail](mdpaulasl@gmail.com) me.
 
-## **💡 Sobre mim:**
+## **💡 About me:**
 
-* 🖥️ Interessado em ver mais do meu trabalho? Confira meu portfólio [aqui](https://sites.google.com/view/marianerodrigues).
-* 🌱 Estou continuamente aprendendo e desenvolvendo minhas habilidades. Já tendo abordado tópicos avançados em estatística, agora estou mergulhando mais fundo em machine learning.
-* 🔍 Explore meus projetos de ciência de dados no [GitHub](https://github.com/marianerod).
-* ⚡Curiosidade: sou apaixonada por cinema! Assistir filmes e séries é uma das minhas formas favoritas de relaxar e recarregar as energias entre os estudos.
-
+* 🖥️ Interested in seeing more of my work? Check out my portfolio [here](https://sites.google.com/view/marianerodrigues).
+* 🌱 I'm continually learning and developing my skills. Having already covered advanced topics in statistics, I'm now diving deeper into machine learning.
+* 🔍 Explore my data science projects on [GitHub](https://github.com/marianerod).
+* ⚡Fun fact: I’m passionate about cinema! Watching movies and series is one of my favorite ways to relax and recharge between studies.
+  
 ![download (1)](https://github.com/user-attachments/assets/57ed181b-0ba9-44f8-8532-484a02181ef1)
 
 ##
