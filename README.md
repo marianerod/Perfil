@@ -6,13 +6,13 @@ With a solid background in **Statistics**, **Python**, **SQL**, **R**, and **Dat
 
 ## **📫 Let's connect!**
 
-You can find me on [LinkedIn](https://www.linkedin.com/in/marianedpr/) or feel free to [e-mail](mdpaulasl@gmail.com) me.
+You can find me on [LinkedIn](https://www.linkedin.com/in/marianedpr/).
 
 ## **💡 About me:**
 
 * 🖥️ Interested in seeing more of my work? Check out my portfolio [here](https://sites.google.com/view/marianerodrigues).
 * 🌱 I'm continually learning and developing my skills. Having already covered advanced topics in statistics, I'm now diving deeper into machine learning.
-* 🔍 Explore my data science projects on [GitHub](https://github.com/marianerod).
+* 🔍 Explore my data analytics projects on [GitHub](https://github.com/marianerod).
 * ⚡Fun fact: I’m passionate about cinema! Watching movies and series is one of my favorite ways to relax and recharge between studies.
   
 ![download (1)](https://github.com/user-attachments/assets/57ed181b-0ba9-44f8-8532-484a02181ef1)
